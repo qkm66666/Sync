@@ -1,4 +1,4 @@
-﻿using SharpRaven;
+﻿// using SharpRaven;
 using Sync.Tools;
 using System;
 using System.Threading;
